@@ -28,12 +28,12 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Background image with top right text": {
+  "Background Taalstaat": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "subway.jpg",
+    "backgroundImage": "R1_Taalstaat_theme_v1.png",
     "foregroundColor": "#fc0",
     "waveBottom": 660,
     "waveTop": 320
@@ -90,6 +90,7 @@
     "foregroundColor": "#c02942",
     "pattern": "pixel"
   },
+<<<<<<< HEAD
   "Square with background image": {
     "width": 640,
     "height": 640,
@@ -102,4 +103,15 @@
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
   }
+  "Radio1_Template_1_Blurred": {
+  "captionAlign": "right",
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 640,
+  "backgroundImage": "R1-bkgd-blur.jpg",
+  "foregroundColor": "#fc0",
+  "waveBottom": 660,
+  "waveTop": 320
+=======
+>>>>>>> origin/master
 }
