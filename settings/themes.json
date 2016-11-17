@@ -28,26 +28,6 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Background Taalstaat": {
-    "captionAlign": "right",
-    "captionTop": 60,
-    "captionRight": 1220,
-    "captionLeft": 640,
-    "backgroundImage": "R1_Taalstaat_theme_v1.png",
-    "foregroundColor": "#fc0",
-    "waveBottom": 660,
-    "waveTop": 320 
-  },
-  "Radio1_Template_1_Blurred": {
-  "captionAlign": "right",
-  "captionTop": 60,
-  "captionRight": 1220,
-  "captionLeft": 640,
-  "backgroundImage": "R1-bkgd-blur.jpg",
-  "foregroundColor": "#fc0",
-  "waveBottom": 660,
-  "waveTop": 320
-  },
   "Rounded bars with bottom left text": {
     "pattern": "roundBars",
     "foregroundColor": "#d84a4a",
@@ -107,5 +87,26 @@
     "captionRight": 620,
     "foregroundColor": "#0eb8ba",
     "backgroundImage": "nyc.png"
+},
+  "Background Taalstaat": {
+    "captionAlign": "right",
+    "captionTop": 60,
+    "captionRight": 1220,
+    "captionLeft": 640,
+    "backgroundImage": "R1_Taalstaat_theme_v1.png",
+    "foregroundColor": "#fc0",
+    "waveBottom": 660,
+    "waveTop": 320 
+  },
+  "Radio1_Template_1_Blurred": {
+  "captionAlign": "right",
+  "captionTop": 60,
+  "captionRight": 1220,
+  "captionLeft": 640,
+  "backgroundImage": "R1-bkgd-blur.jpg",
+  "foregroundColor": "#fc0",
+  "waveBottom": 660,
+  "waveTop": 320
+
   }
 }
