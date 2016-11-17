@@ -28,12 +28,12 @@
     "captionColor": "#515151",
     "waveColor": "#00b4ff"
   },
-  "Background image NPOR1_blurred": {
+  "Background Taalstaat": {
     "captionAlign": "right",
     "captionTop": 60,
     "captionRight": 1220,
     "captionLeft": 640,
-    "backgroundImage": "R1_bkgd_blur",
+    "backgroundImage": "R1_Taalstaat_theme_v1.png",
     "foregroundColor": "#fc0",
     "waveBottom": 660,
     "waveTop": 320
@@ -90,16 +90,4 @@
     "foregroundColor": "#c02942",
     "pattern": "pixel"
   },
-  "Square with background image": {
-    "width": 640,
-    "height": 640,
-    "samplesPerFrame": 64,
-    "waveTop": 20,
-    "waveBottom": 300,
-    "captionTop": 340,
-    "captionLeft": 20,
-    "captionRight": 620,
-    "foregroundColor": "#0eb8ba",
-    "backgroundImage": "nyc.png"
-  }
 }
