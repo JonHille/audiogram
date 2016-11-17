@@ -91,6 +91,7 @@
     "pattern": "pixel"
   },
 <<<<<<< HEAD
+<<<<<<< HEAD
   "Square with background image": {
     "width": 640,
     "height": 640,
@@ -112,6 +113,8 @@
   "foregroundColor": "#fc0",
   "waveBottom": 660,
   "waveTop": 320
+=======
+>>>>>>> origin/master
 =======
 >>>>>>> origin/master
 }
